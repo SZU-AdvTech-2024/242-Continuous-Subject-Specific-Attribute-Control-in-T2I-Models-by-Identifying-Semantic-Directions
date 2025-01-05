@@ -1,0 +1,6 @@
+@article{REPO242,
+    author = {Baumann, Stefan Andreas and Krause, Felix and Neumayr, Michael and Stracke, Nick and Hu, Vincent Tao and Ommer, Bj{\"o}rn},
+    journal = "arXiv preprint arXiv:2403.17064",
+    title = "{Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions}",
+    year = "2024"
+}
